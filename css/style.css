@@ -1,0 +1,37 @@
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+    height: 300px;
+}
+
+#carousel-example-generic{
+    margin: 30px auto;
+    width: 1000px;
+}
+
+
+#banner{
+    background: white;
+    background: linear-gradient(to right, white 45% , #33469c);
+}
+
+#logo{
+    width: 400px;
+}
+
+#info{
+    color: white;
+}
+
+#email{
+    text-decoration:none !important;
+    color: white;
+}
+
+#footer{
+
+}
+
+#par{
+    margin: 50px 175px;
+}
