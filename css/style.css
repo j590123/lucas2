@@ -5,9 +5,20 @@
 }
 
 #carousel{
-    margin-top: 30px;
 }
 
+#nav1{
+    margin-left: 175px;
+    color: #33469c;
+}
+#nav2{
+    margin-left: 50px;
+    color: #33469c;
+}
+#nav3{
+    margin-left: 50px;
+    color: #33469c;
+}
 
 #banner{
     background: white;
